@@ -1,0 +1,22 @@
+.btn {
+    margin-left: 15px;
+
+}
+
+.ItemList {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 30px;
+    padding: 3px;
+}
+
+.ItemList:hover {
+    background-color: #f5b339;
+    border-radius: 3px;
+}
+
+.close {
+    color: gray;
+    text-decoration: line-through;
+}
